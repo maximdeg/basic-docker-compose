@@ -3,9 +3,9 @@
 
 Esta aplicación es un servidor Express.js que, dado un número del 1 al 20, devuelve el nombre geométrico correspondiente a la cantidad de lados indicada. Además, guarda cada consulta válida en un archivo JSON persistente junto con la fecha y permite consultar el historial de resultados.
 
-[Tecnologías elegidas](#tecnologías-elegidas)
-[Endpoints de prueba](#endpoints-de-prueba)
-[Cómo ejecutar la aplicación](#cómo-ejecutar-la-aplicación)
+- [Tecnologías elegidas](#tecnologías-elegidas)
+- [Endpoints de prueba](#endpoints-de-prueba)
+- [Cómo ejecutar la aplicación](#cómo-ejecutar-la-aplicación)
 
 ## Tecnologías elegidas
 
