@@ -36,7 +36,7 @@ Pentágono
 ```
   
 
-### 2. `/ver_resultados`
+### 2. `http://localhost:8080/ver_resultados`
 
 -  **Método:** GET
 
