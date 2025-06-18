@@ -9,8 +9,8 @@ Esta aplicación es un servidor Express.js que, dado un número del 1 al 20, dev
 
 ## Tecnologías elegidas
 
--  **Node.js + Express.js**: Hace ya varios años que utilizo JavaScript y trabajo con este lenguaje y es con el que me siento mas comodo. Utilize los mismos lenguajes para hacer el proyecto de Kubernetes.
-
+-  **Node.js + Express.js**: Hace ya varios años que utilizo JavaScript y trabajo freelance con este lenguaje haciendo aplicaciones en Node, Express, React y Next.js y es con el que me siento mas comodo. Utilize los mismos lenguajes para hacer el proyecto de Kubernetes.
+  
 ## Endpoints de prueba
 
 ### 1. `http://localhost:8080/fig_geometrica?numero=`
