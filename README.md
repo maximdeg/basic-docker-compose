@@ -117,10 +117,12 @@ docker-compose exec express-server sh
 4. Accede a los endpoints desde tu navegador o usando `curl` desde tu máquina o desde el contenedor.
 ```
 curl "http://localhost:8080/fig_geometrica?numero=7"
+
 #Respuesta en la terminal actual: Heptágono# (ctrl+C para volver a la terminal para ejecutar otro comando)
 #Respuesta esperada en la terminal del servidor: Heptágono
 
 curl "http://localhost:8080/ver_resultados"
+
 # Respuesta esperada: JSON con busquedas anteriores
 ```
   
