@@ -1,15 +1,19 @@
-# Figuras Geométricas API con Node y Docker
+# Actividad de Recuperatorio
 ### Por Maxim Degtiarev
+Elegí la opcion uno: Realizar una reentrega de los trabajos anteriores con las consignas originales, aplicando las correcciones sugeridas
+
+
+## Figuras Geométricas API con Node y Docker
 
 Esta aplicación es un servidor Express.js que, dado un número del 1 al 20, devuelve el nombre geométrico correspondiente a la cantidad de lados indicada. Además, guarda cada consulta válida en un archivo JSON persistente junto con la fecha y permite consultar el historial de resultados.
 
-- [Tecnologías elegidas](#tecnologías-elegidas)
-- [Endpoints de prueba](#endpoints-de-prueba)
-- [Cómo ejecutar la aplicación](#cómo-ejecutar-la-aplicación)
+[Tecnologías elegidas](#tecnologías-elegidas)
+[Endpoints de prueba](#endpoints-de-prueba)
+[Cómo ejecutar la aplicación](#cómo-ejecutar-la-aplicación)
 
 ## Tecnologías elegidas
 
--  **Node.js + Express.js**: Hace ya varios años que utilizo JavaScript y trabajo freelance con este lenguaje haciendo aplicaciones en Node, Express, React y Next.js y es con el que me siento mas comodo. Utilize los mismos lenguajes para hacer el proyecto de Kubernetes.
+-  **Node.js + Express.js**: Hace ya varios años que utilizo JavaScript y trabajo freelance con este lenguaje haciendo aplicaciones en Node, Express, React y Next.js y es con el que me siento mas comodo. Utilize los mismos lenguajes para hacer el proyecto de Kubernetes. Espero que este proyecto sea suficiente para aprobar Docker, pude simplemente traer la parte de Docker del proyecto que hice con Kubernetes.
   
 ## Endpoints de prueba
 
