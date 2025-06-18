@@ -31,7 +31,7 @@ curl "http://localhost:8080/fig_geometrica?numero=5"
 **Respuesta en el servidor:**
 ```
 
-Pentágono
+Figura geométrica con 7 lados: Pentágono 
 
 ```
   
