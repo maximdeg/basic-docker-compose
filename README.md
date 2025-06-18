@@ -57,27 +57,16 @@ curl "http://localhost:8080/ver_resultados"
 ```json
 
 [
-
-{
-
-"numero": 5,
-
-"forma": "Pentágono",
-
- "timestamp": "6/18/2025"
-
-},
-
-{
-
-"numero": 3,
-
-"forma": "Triángulo",
-
- "timestamp": "6/18/2025"
-
+  {
+    "numero": 5,
+    "forma": "Pentágono",
+    "timestamp": "6/18/2025"
+  },
+  {
+    "numero": 3,
+    "forma": "Triángulo",
+    "timestamp": "6/18/2025"
 }
-
 ]
 
 ```
