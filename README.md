@@ -129,7 +129,7 @@ curl "http://localhost:8080/ver_resultados"
    ```
    exit
    ```
-7. Salir de la terminal del servidor apretando Ctrl + C y terminar el docker compose:
+6. Salir de la terminal del servidor apretando Ctrl + C y terminar el docker compose:
    ```
    docker-compose down
    ```
