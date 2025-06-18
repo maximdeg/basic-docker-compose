@@ -64,7 +64,7 @@ curl "http://localhost:8080/ver_resultados"
 
 "forma": "Pentágono",
 
-"timestamp": "07/06/2024"
+ "timestamp": "6/18/2025"
 
 },
 
@@ -74,7 +74,7 @@ curl "http://localhost:8080/ver_resultados"
 
 "forma": "Triángulo",
 
-"timestamp": "07/06/2024"
+ "timestamp": "6/18/2025"
 
 }
 
@@ -123,7 +123,14 @@ curl "http://localhost:8080/fig_geometrica?numero=7"
 
 curl "http://localhost:8080/ver_resultados"
 
-# Respuesta esperada: JSON con busquedas anteriores
+# Respuesta esperada:
+[
+  {
+    "numero": 7,
+    "forma": "Heptágono",
+    "timestamp": "6/18/2025"
+  }
+]
 ```
   
 
